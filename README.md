@@ -1,8 +1,7 @@
-👋 Hi, I’m @troliveira3
+Hi, I’m [![](https://img.shields.io/badge/-Thiago%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-rodrigues-362410b6/)](https://www.linkedin.com/in/thiago-rodrigues-362410b6/)
 
-[![troliveira3 GitHub stats](https://github-readme-stats.vercel.app/api?username=troliveira3&show_icons=true&hide=stars,contribs)](https://github.com/troliveira3)
+####  My Stats 📊
 
-<!---
-troliveira3/troliveira3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=troliveira3&count_private=true&show_icons=true&hide=stars,contribs" alt="Anurag's github stats" /></a> 
+
